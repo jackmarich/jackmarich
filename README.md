@@ -4,5 +4,5 @@
 ### THE WORLD OF JMAR 🌎
 I'm a high school student interested in artificial intelligence, game development, software development, and manga. Watch me learn!
   
-  jmar.fun
+  https://jmar.fun/
 </a>
