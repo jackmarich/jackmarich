@@ -10,5 +10,5 @@ Beyond my technical skills, I'm known for my outgoing personality and love for l
 
 I'm excited about the future and the opportunities it holds. Let's connect and explore how we can collaborate or share insights in the tech and economic industries. Feel free to reach out—I'm always up for a good conversation!
   
-  https://jmar.fun/
+  https://jackmarich.com/
 </a>
