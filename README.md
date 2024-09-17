@@ -1,10 +1,10 @@
 ### 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=jackmarich&show_icons=true&theme=dark">
 
-### THE WORLD OF JMAR 🌎
-I'm a Computer Science and Data Science student at Lafayette College, passionate about technology and its impact on any industry I find myself in. I'm actively seeking internships that allow me to leverage my skills and enthusiasm.
+### Jack Marich
+I'm a Computer Science student at Lafayette College, passionate about technology and its impact on any industry I find myself in. I'm actively seeking internships that allow me to leverage my skills and enthusiasm.
 
-I've always been drawn to technology, from creating video games to developing projects in Python, C++, C#, Java, and web development. One of my proudest achievements was creating a chatbot using Natural Language Processing to support students dealing with mental health challenges, a project that sparked my interest in artificial intelligence and machine learning. I'm also passionate about building and launching startups, eager to bring transformative ideas from concept to reality.
+I've always been drawn to technology, from creating video games to developing projects in Python, Javascript, and Java. One of my proudest achievements was creating a chatbot using Natural Language Processing to support students dealing with mental health challenges, a project that sparked my interest in full stack development. I'm also passionate about building and launching startups, eager to bring transformative ideas from concept to reality.
 
 Beyond my technical skills, I'm known for my outgoing personality and love for learning about different cultures and identities. I believe my curiosity and ability to connect with people will be an asset in any professional setting.
 
