@@ -1,5 +1,4 @@
 ### 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=jackmarich&show_icons=true&theme=dark">
 
 ### Jack Marich
 I'm a Computer Science student at Lafayette College, passionate about technology and its impact on any industry I find myself in. I'm actively seeking internships that allow me to leverage my skills and enthusiasm.
